@@ -83,13 +83,20 @@ https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view
 </p>
 
 ---
-
-# 🏆 Achievements
+# ⚙️ Skill Proficiency
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cipher-vortex&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img src="https://progress-bar.dev/90/?title=React&width=500"/>
+<img src="https://progress-bar.dev/85/?title=Next.js&width=500"/>
+<img src="https://progress-bar.dev/88/?title=Node.js&width=500"/>
+<img src="https://progress-bar.dev/80/?title=MongoDB&width=500"/>
+<img src="https://progress-bar.dev/75/?title=Python&width=500"/>
+<img src="https://progress-bar.dev/82/?title=System%20Design&width=500"/>
+
 </p>
 
+<!--
 ---
 
 # 🐍 Contribution Snake
@@ -97,8 +104,52 @@ https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view
 <p align="center">
 <img src="https://raw.githubusercontent.com/cipher-vortex/cipher-vortex/main/github-contribution-grid-snake.svg"/>
 </p>
-
+-->
 ---
+<p align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="600"/>
+</p>
+
+# 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 Tours Platform
+Full stack travel booking system  
+MERN • Auth • Payments • Admin
+
+<a href="https://github.com/cipher-vortex/tours-fullstack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-vortex&repo=tours-fullstack&theme=transparent"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI Memory Vault
+AI knowledge tracking system  
+Vector Search • APIs • UI
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-vortex&repo=REPO_NAME&theme=transparent"/>
+
+</td>
+</tr>
+</table>
+
+# 🌌 Contribution Heatmap
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher-vortex&theme=tokyonight"/>
+</p>
+
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=cipher-vortex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+<img src="https://github.com/cipher-vortex/cipher-vortex/blob/output/github-contribution-grid-snake-dark.svg">
 
 # ⚡ Developer Philosophy
 
