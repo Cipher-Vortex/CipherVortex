@@ -1,32 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Kiran%20S%20R&fontColor=fff&fontSize=40"/>
+# Kiran S R — Digital Builder
 
-<h2 align="center">✨ Crafting Elegant Full Stack Experiences ✨</h2>
+I design systems where logic meets creativity.
 
-<p align="center">
+## Mediums
+
+* Code as structure
+* UI as canvas
+* APIs as connections
+
+## Tools
+
 React • Next.js • Python • MongoDB • Docker
-</p>
 
----
+## Current Work
 
-## 🌟 Highlights
+Constructing scalable web environments for real-world interaction.
 
-* 🚀 Building scalable platforms
-* 🎯 UI with precision & performance
-* 🧠 API-driven architecture
-* ⚙️ Automation & optimization focused
+## Contact
 
----
-
-## 🧰 Stack
-
-`React` `Next.js` `Node.js` `Python` `MongoDB` `Redis` `Docker`
-
----
-
-## 📬 Reach Me
-
-📧 [skkiran1258@gmail.com](mailto:skkiran1258@gmail.com)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243B55,100:141E30"/>
+[skkiran1258@gmail.com](mailto:skkiran1258@gmail.com)
