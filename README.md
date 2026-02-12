@@ -1,129 +1,88 @@
+<!-- Premium Gradient Header -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Kiran%20S%20R&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<!--
-## Hi there 👋
-**CipherVortex/CipherVortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+Full Stack Developer • MERN • Next.js • Python
+</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Web+Apps;API+Driven+Architecture;Clean+UI+Systems;Always+Learning&center=true&width=500&height=40">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=cipher-vortex&label=Profile+Views&style=for-the-badge"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm Kiran</h1>
+---
+
+## 🧊 About Me
+
+* 🔭 Working on **Tours & Travels Full Stack Platform**
+* 🌱 Currently learning **Docker & scalable deployments**
+* 💬 Ask me about **MERN Stack Development**
+* 📫 Reach me: **[skkiran1258@gmail.com](mailto:skkiran1258@gmail.com)**
+* 📄 Resume
+  https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view
+
+---
+
+## 🌐 Connect
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ciphervortex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<a href="https://linkedin.com/in/in/kiran-s-r-774530268/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/skkiran.153">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/CipherVortex/CipherVortex/main/assets/profile.jpg" alt="Coder Image" width="200" />
+---
+
+## 🚀 Featured Project
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cipher-Vortex&repo=tours-fullstack" />
 </p>
 
-<h2 align="left">A Passionate Frontend Developer from India</h2>
+---
 
-<p align="left">
-  🔭 I’m currently working on <strong>React Native and React JS</strong><br>
-  🌱 I’m currently learning <strong>Redux</strong><br>
-  👯 I’m looking to collaborate on <strong>Mobile Applications</strong><br>
-  <!-- 👨‍💻 All of my projects are available at [Projects](https://github.com/CipherVortex?tab=repositories) -->
-  👨‍💻 All of my projects are available at <a href="https://github.com/CipherVortex?tab=repositories">Projects</a><br>)
-  🤝 I’m looking for help with <strong>Redux</strong><br>
-  💬 Ask me about <strong>React and Web Designing</strong><br>
-  📫 How to reach me <strong><a href="mailto:skkiran1258@gmail.com">skkiran1258@gmail.com</a></strong>
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,mongodb,redis,docker,ts,js,git,linux,tailwind"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kiran-s-r-774530268" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/skkiran.153" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-vortex&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-vortex&theme=tokyonight"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-vortex&layout=compact&theme=tokyonight"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<!-- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ciphervortex&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=cipher-vortex&theme=onestar&no-frame=true"/>
 </p>
--->
-<div align="left">
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ciphervortex&show_icons=true&locale=en" alt="GitHub Stats" />
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/cipher-vortex/cipher-vortex/output/github-contribution-grid-snake.svg"/>
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciphervortex&" alt="GitHub Streak" />
-</p>
-</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:2c5364,50:203a43,100:0f2027"/>
