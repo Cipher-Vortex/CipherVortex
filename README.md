@@ -49,7 +49,7 @@ Full Stack Engineer • MERN Specialist • Next.js Builder
 ## 🚀 Featured Project
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cipher-Vortex&repo=tours-fullstack&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-vortex&repo=tours-fullstack&theme=tokyonight"/>
 </p>
 
 <br>
@@ -69,34 +69,36 @@ Full Stack Engineer • MERN Specialist • Next.js Builder
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-vortex&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-vortex&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-vortex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img src="https://streak-stats.demolab.com?user=cipher-vortex&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-vortex&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-vortex&layout=compact&theme=tokyonight"/>
-</p>
 
 <br>
 
-<!-- ================= TROPHIES ================= -->
+<!-- ================= TROPHIES =================  -->
 
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cipher-vortex&theme=onestar&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cipher-vortex&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 <br>
 
-<!-- ================= SNAKE ================= -->
+<!-- ================= SNAKE ================= 
 
 ## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/cipher-vortex/cipher-vortex/output/github-contribution-grid-snake.svg"/>
 </p>
-
+-->
 <br>
 
 <!-- ================= FOOTER ================= -->
