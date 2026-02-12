@@ -1,9 +1,9 @@
-<!-- Premium Gradient Header -->
+<!-- ================= HEADER ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Kiran%20S%20R&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h2 align="center">
-Full Stack Developer • MERN • Next.js • Python
+Full Stack Engineer • MERN Specialist • Next.js Builder
 </h2>
 
 <p align="center">
@@ -11,21 +11,25 @@ Full Stack Developer • MERN • Next.js • Python
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=cipher-vortex&label=Profile+Views&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=cipher-vortex&style=for-the-badge"/>
 </p>
 
----
+<br>
+
+<!-- ================= ABOUT ================= -->
 
 ## 🧊 About Me
 
-* 🔭 Working on **Tours & Travels Full Stack Platform**
+* 🔭 Building scalable **Tours & Travels Full-Stack Platform**
 * 🌱 Currently learning **Docker & scalable deployments**
-* 💬 Ask me about **MERN Stack Development**
+* 💬 Ask me about **MERN / Next.js / API Design**
 * 📫 Reach me: **[skkiran1258@gmail.com](mailto:skkiran1258@gmail.com)**
 * 📄 Resume
   https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view
 
----
+<br>
+
+<!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect
 
@@ -38,28 +42,34 @@ Full Stack Developer • MERN • Next.js • Python
 </a>
 </p>
 
----
+<br>
+
+<!-- ================= FEATURED PROJECT ================= -->
 
 ## 🚀 Featured Project
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cipher-Vortex&repo=tours-fullstack" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cipher-Vortex&repo=tours-fullstack&theme=tokyonight" />
 </p>
 
----
+<br>
+
+<!-- ================= STACK ================= -->
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,mongodb,redis,docker,ts,js,git,linux,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,mongodb,redis,docker,ts,js,git,linux,tailwind" />
 </p>
 
----
+<br>
+
+<!-- ================= ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-vortex&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-vortex&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-vortex&theme=tokyonight"/>
 </p>
 
@@ -67,15 +77,19 @@ Full Stack Developer • MERN • Next.js • Python
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-vortex&layout=compact&theme=tokyonight"/>
 </p>
 
----
+<br>
+
+<!-- ================= TROPHIES ================= -->
 
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cipher-vortex&theme=onestar&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cipher-vortex&theme=onestar&no-frame=true&margin-w=10"/>
 </p>
 
----
+<br>
+
+<!-- ================= SNAKE ================= -->
 
 ## 🐍 Contribution Snake
 
@@ -83,6 +97,8 @@ Full Stack Developer • MERN • Next.js • Python
 <img src="https://raw.githubusercontent.com/cipher-vortex/cipher-vortex/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+<br>
+
+<!-- ================= FOOTER ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:2c5364,50:203a43,100:0f2027"/>
