@@ -1,21 +1,42 @@
-# Kiran S R — Digital Builder
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kiran%20S%20R&fontSize=42&fontColor=ffffff"/>
+</p>
 
-I design systems where logic meets creativity.
+<h3 align="center">
+Full Stack Developer • MERN • Next.js • Python
+</h3>
 
-## Mediums
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/YOURUSERNAME?style=social"/>
+</p>
 
-* Code as structure
-* UI as canvas
-* APIs as connections
+---
 
-## Tools
+## 🚀 About Me
 
-React • Next.js • Python • MongoDB • Docker
+- 🔭 Building scalable full stack platforms  
+- ⚙️ Exploring Docker & cloud deployments  
+- 💬 Ask me about MERN / Next.js  
+- 📫 skkiran1258@gmail.com  
 
-## Current Work
+---
 
-Constructing scalable web environments for real-world interaction.
+## 🧰 Tech Stack
 
-## Contact
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,python,mongodb,ts,js,docker,git,linux)
 
-[skkiran1258@gmail.com](mailto:skkiran1258@gmail.com)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
