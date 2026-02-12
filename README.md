@@ -57,25 +57,30 @@ I build scalable, high-performance web applications that
 
 ---
 
+<div align="center">
+
 ## 🛠 The “Please Don’t Break” Stack
 
-### 🚀 Core Technologies
+### 🚀 The Daily Bread (Core Tech)
+*Things I use to build beautiful UIs and then spend 4 hours centering a single `div`.*
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,ts,js,html,css"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,ts,js,html,css" alt="Core Tech"/>
 
-### ⚙️ Backend & Infrastructure
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=express,redis,docker,python,git,linux,postman"/>
-</p>
+### ⚙️ The "It Works on My Machine" Starter Pack (Backend & Infra)
+*Where I pretend to understand Docker while actually just restarting the container until it works.*
 
-### 🎨 Styling & Support Tools
+<img src="https://skillicons.dev/icons?i=express,redis,docker,python,git,linux,postman" alt="Backend & Infrastructure"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind,sass,figma,vscode,vite,astro"/>
-</p>
+<br/>
+
+### 🎨 Emotional Support Tools (Styling & Workflow)
+*Because if it doesn't look pretty in VS Code and Figma, did I even code it?*
+
+<img src="https://skillicons.dev/icons?i=tailwind,sass,figma,vscode,vite,astro" alt="Styling & Tools"/>
+
+</div>
 
 ---
 
@@ -112,3 +117,4 @@ I build scalable, high-performance web applications that
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=2c5364&text=Go%20Away%20(Just%20Kidding%2C%20Hire%20Me!)&fontSize=20&fontColor=ffffff"/>
 </p>
+
