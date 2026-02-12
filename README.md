@@ -106,43 +106,6 @@ https://drive.google.com/file/d/1tvnaG53eitm4Dj19R-UuwKj0oXtOwGne/view
 </p>
 -->
 ---
-<p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="600"/>
-</p>
-
-# 🚀 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌍 Tours Platform
-Full stack travel booking system  
-MERN • Auth • Payments • Admin
-
-<a href="https://github.com/cipher-vortex/tours-fullstack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-vortex&repo=tours-fullstack&theme=transparent"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧠 AI Memory Vault
-AI knowledge tracking system  
-Vector Search • APIs • UI
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-vortex&repo=REPO_NAME&theme=transparent"/>
-
-</td>
-</tr>
-</table>
-
-# 🌌 Contribution Heatmap
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher-vortex&theme=tokyonight"/>
-</p>
 
 
 <p align="center">
